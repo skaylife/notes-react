@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+https://skaylife.github.io/notes-react/
+
+![gitHub](https://user-images.githubusercontent.com/48244659/114274085-027c7b00-9a47-11eb-80c0-915d868f2ea0.gif)
+
 
 ## Available Scripts
 
